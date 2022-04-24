@@ -23,7 +23,11 @@
 14. Click **Import**
 15. Go to [My flows](https://us.flow.microsoft.com/manage/environments/Default-4b0911a0-929b-4715-944b-c03745165b3a/flows 'My flows')
 16. Select the automation flow *(If no automation is shown, refresh the page)*
-17. **Edit** the automation and set your desired shift hours & time zone
+17. **Edit** the automation to set your desired signature message, shift hours & time zone
+
+### Signature message Week & Weekend:
+1. Expand **Condition** > **Condition Week Days** > **Set up automatic replies week days**
+2. Expand **Condition** > **Condition Weekend** > **Set up automatic replies weekend**
 
 ### Configuring shift hours and time zones:
 #### Adjusting trigger time zone:
@@ -50,9 +54,10 @@
 3. Click **Turn off**
 4. To turn it back on, repeat the steps and select **Turn on** for step 3
 
+
 ## Additional information
 - Signature template doesn't need any updates
-  - Display Name, Job Title, Shift Hours and Time zone attributes are automatically gathered from your Microsoft Office 365 account
+  - Display Name, Job Title, Company name, Shift Hours and Time zone attributes are automatically gathered from your Microsoft Office 365 account
 
 - Resources in use
   - Office 365 Outlook Connection
