@@ -1,5 +1,5 @@
 # Automatic Out of Office replies for Microsoft Office 365
-- This Power Automate flow will automatically activate/deactivate your out of office message for a 8 hours shift
+- This Power Automate flow will automatically activate/deactivate your out of office message for an 8 hours shift
   - Week days:
     - Enabled for 930 mins after End shift hours
   - Weekend:
