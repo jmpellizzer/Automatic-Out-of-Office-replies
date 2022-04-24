@@ -3,8 +3,7 @@
 - It runs avery day at the end and at the start of your shift
 - It runs on weekends at 1am in Your Time zone every Saturday
   - It gets disabled on Monday, at the beginning of your shift
-- Every time it runs, you'll receive a feedback notification in your Teams account  
-
+- A message in your Teams account from Power Automate Bot is sent everytime it runs
 
 ## Setup
 ### Importing the flow to your account
@@ -12,7 +11,7 @@
 2. Go to [Import](https://emea.flow.microsoft.com/manage/flows/import "Import") under **My flows** to import the flow
 3. Click **Upload** then select the downloaded `.zip` file
 4. Click **Select during import** to choose existent or create new connections for the required resources
-5. If connections are present, choose the desired connection and click **Save**
+5. If connections are present, choose the desired connection, click **Save** and jump to step 14
 6. If there are no connections, click **Create new**
 7. Click **New connection**
 8. Search for the required resources (Office 365 Outlook, Microsoft Teams and Office 365 Users)   
