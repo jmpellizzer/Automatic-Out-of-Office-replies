@@ -1,5 +1,8 @@
 # Automatic Out of Office replies for Microsoft Office 365
-This Power Automate flow will automatically activate/deactivate your out of office message
+- This Power Automate flow will automatically activate/deactivate your out of office message
+- It runs avery day at the end and at the start of your shift
+- It also keeps it enabled during the weekend
+
 
 ## Setup
 ### Importing the flow to your account
@@ -21,8 +24,6 @@ This Power Automate flow will automatically activate/deactivate your out of offi
 16. Select the automation flow *(If no automation is shown, refresh the page)*
 17. **Edit** the automation and set your desired shift hours & time zone
 
-
-
 ### Configuring shift hours and time zones:
 #### Adjusting trigger time zone:
 1. Go to **My flows** in the left-side pane
@@ -41,6 +42,12 @@ This Power Automate flow will automatically activate/deactivate your out of offi
 3. Expand **Set Time zone** variable and set the **Time Zone** in the **Value** box
 `Example: CEST`
 4. Click **Save** 
+
+### To turn on/off a Power Automation flow:
+1. Select the Power Automation flow under **My Flows**
+2. Click the three dots vertically aligned for the desired automation, once selected
+3. Click **Turn off**
+4. To turn it back on, repeat the steps and select **Turn on** for step 3
 
 ## Additional information
 - Signature template doesn't need any updates
