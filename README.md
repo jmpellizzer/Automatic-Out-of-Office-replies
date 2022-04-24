@@ -3,7 +3,7 @@ This Power Automate flow will automatically activate/deactivate your out of offi
 
 ## Setup
 ### Importing the flow to your account
-1. [Download](https://github.com/jmpellizzer/Automatic-Out-of-Office-replies/blob/main/Automatic%20Out%20of%20Office%20replies.zip 'Downloa') the flow
+1. [Download](https://github.com/jmpellizzer/Automatic-Out-of-Office-replies/raw/main/Automatic%20Out%20of%20Office%20replies.zip 'Download') the flow
 2. Go to [Import](https://emea.flow.microsoft.com/manage/flows/import "Import") under **My flows** to import the flow
 3. Click **Upload** then select the downloaded `.zip` file
 4. Click **Select during import** to choose existent or create new connections for the required resources
