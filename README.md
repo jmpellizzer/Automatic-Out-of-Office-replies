@@ -7,6 +7,8 @@
 - It runs every day at the end and at the start of your shift
 - For the Weekend, it runs on Saturday at 1am in Your Time zone
   - It gets disabled on Monday, at the beginning of your shift
+- Display Name, Job Title and Company name attributes are automatically gathered from your Microsoft Office 365 account 
+- Shift Hours and Time zone signature attributes are gather from the variables
 - A message to your Microsoft Teams account from Power Automate Bot is sent everytime it runs
 
 ## Setup
@@ -60,8 +62,6 @@
 
 
 ## Additional information
-- Signature template doesn't need any updates
-  - Display Name, Job Title, Company name, Shift Hours and Time zone attributes are automatically gathered from your Microsoft Office 365 account
 
 - Resources in use
   - Office 365 Outlook Connection
