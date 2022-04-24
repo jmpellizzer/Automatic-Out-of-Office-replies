@@ -8,7 +8,7 @@
 - For the Weekend, it runs on Saturday at 1am in Your Time zone
   - It gets disabled on Monday, at the beginning of your shift
 - Display Name, Job Title and Company name attributes are automatically gathered from your Microsoft Office 365 account 
-- Shift Hours and Time zone signature attributes are gather from the variables
+- Shift Hours and Time zone signature attributes are gather from the variables you'll set during the flow setup
 - A message to your Microsoft Teams account from Power Automate Bot is sent everytime it runs
 
 ## Setup
