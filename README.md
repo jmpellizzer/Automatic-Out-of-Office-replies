@@ -3,7 +3,7 @@
 - It runs avery day at the end and at the start of your shift
 - It runs on weekends at 1am in Your Time zone every Saturday
   - It gets disabled on Monday, at the beginning of your shift
-- A message in your Teams account from Power Automate Bot is sent everytime it runs
+- A message to your Microsoft Teams account from Power Automate Bot is sent everytime it runs
 
 ## Setup
 ### Importing the flow to your account
