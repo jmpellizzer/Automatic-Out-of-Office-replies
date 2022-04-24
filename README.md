@@ -1,7 +1,7 @@
 # Automatic Out of Office replies for Microsoft Office 365
 - This Power Automate flow will automatically activate/deactivate your out of office message
-- It runs avery day at the end and at the start of your shift
-- It runs on weekends at 1am in Your Time zone every Saturday
+- It runs every day at the end and at the start of your shift
+- For the Weekend, it runs on Saturday at 1am in Your Time zone
   - It gets disabled on Monday, at the beginning of your shift
 - A message to your Microsoft Teams account from Power Automate Bot is sent everytime it runs
 
